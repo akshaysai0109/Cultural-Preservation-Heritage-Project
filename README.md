@@ -1,6 +1,6 @@
 # Cultural-Preservation-Heritage-Project
 
-# Introduction
+## Introduction
 Digital curation entails carefully selecting, organizing, and contextualizing digital content to preserve its worth and relevance. This procedure frequently involves filtering through massive volumes of data to discover elements of significance based on criteria such as historical value, relevance in culture, or scientific significance. Once selected, these items are organized in a logical manner, frequently incorporating metadata and classification mechanisms to enable quick access. Furthermore, offering context using annotations or descriptions enhances the understanding and usability of curated digital resources, assisting academics, scholars, and the public in successfully browsing and interpreting the content.
 
 Digital preservation, on the other hand, is concerned with maintaining the lifespan and availability of digital assets throughout time. It entails using strong retention techniques and equipment to protect against loss of information, degradation, or corruption. Using redundant storage facilities, reliable information centers, or solutions based on the cloud could be examples of this. Furthermore, preservation measures include regular backups, which allow for retrieval of data in the event of inadvertent deletion, cyber-attacks, and technological breakdowns. Digital safeguarding ensures the worth of digital assets are available and used for future generations as well as protecting our digital history and knowledge.
@@ -9,6 +9,6 @@ Digital curation and preservation procedures are critical for ensuring the integ
 
 The project aims to preserve and research the effects of WWII Underwater Cultural Heritage in the Commonwealth of the Northern Mariana Islands (CNMI).
 
-#Information setting and type of information
+## Information setting and type of information
 Markup: * The preserved information concludes a case study conducted by Jennifer F. McKinnon titled "Memorialization, Graffiti and Artifact Movement: A Case Study of Cultural Impacts on WWII Underwater Cultural Heritage in the Commonwealth of the Northern Mariana Islands."
         * The content includes a case study that details criminal activity, remembrance stealing, artifacts motion, and other associated effects on submerged WWII sites. This study's preservation entails documenting it with explained metadata guaranteeing precise replication and availability.
