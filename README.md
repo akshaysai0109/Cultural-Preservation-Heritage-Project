@@ -12,3 +12,58 @@ The project aims to preserve and research the effects of WWII Underwater Cultura
 ## Information setting and type of information
 * The preserved information concludes a case study conducted by Jennifer F. McKinnon titled "Memorialization, Graffiti and Artifact Movement: A Case Study of Cultural Impacts on WWII Underwater Cultural Heritage in the Commonwealth of the Northern Mariana Islands."
 * The content includes a case study that details criminal activity, remembrance stealing, artifacts motion, and other associated effects on submerged WWII sites. This study's preservation entails documenting it with explained metadata guaranteeing precise replication and availability.
+
+## Potential Users:
+* Users: Researchers, archaeologists, heritage site managers, policymakers, and cultural heritage enthusiasts interested in understanding the impacts on WWII underwater heritage sites will benefit from the preserved information.
+* Access and Use: For research purposes, users will gain access to this case study via digital repositories or educational databases. It is a resource for learning about the effects of tourism and human conduct on places of cultural significance.
+
+## Software Selected:
+* Software: Digital Preservation System (DPS)
+* Description: DPS provides comprehensive digital asset management features such as metadata leadership, control of versions, and reliable backups. Its file format compatibility and restricted access capabilities meet all the different preservation requirements of cultural artifacts.
+*Reason for Selection: DPS was chosen because of its strong metadata abilities, flexibility, and ability to support a wide range of file formats, which are critical for safeguarding research and academic documents.
+
+## Metadata Fields:
+* Title: Memorialization, Graffiti and Artifact Movement: A Case Study of Cultural Impacts on WWII Underwater Cultural Heritage in the Commonwealth of the Northern Mariana Islands
+*Author: Jennifer F. McKinnon
+*	Date: April 1, 2015
+*	Description: Detailed case study on the impacts on WWII underwater heritage sites in CNMI
+*	Keywords: "WWII heritage," "underwater cultural impacts," "archaeological study"
+*	Source: NASA Astrophysics Data System (ADS)
+
+
+## Copyright:
+* Ownership: Jeniffer F. McKinnon
+* User Responsibility: Users must cite the source and adhere to recommended citation guidelines when referencing or using this case study.
+
+## Workflow and Maintenance:
+* Creating Repository:
+  * Input the digital document with detailed metadata.
+  * Configure access permissions and check for content integrity.
+  * Input the study into DPS to ensure accurate representation.
+* Maintenance Schedule:
+  * Regular backups: Weekly
+  * Metadata review and updates: Monthly
+  *	Security audits: Quarterly
+
+* Budgeting: Funds have been set aside for electronic records equipment, DPS licensing, and staff education.
+
+## Conclusion: 
+The preservation of scholarly studies, such as Jennifer F. McKinnon's case study, through digital curation is critical to guaranteeing continuous access and comprehensive examination of cultural impacts on heritage sites. We promote broad availability for academics, researchers, as well as enthusiasts by scanning and organizing such invaluable research, fostering continued study and a comprehension of past legacies. This highlights the vital importance of digital preservation in preserving intellectual conversation and furthering research efforts within academia.
+
+## References:
+* NASA Astrophysics Data System (ADS)
+* McKinnon, Jennifer F. "Memorialization, Graffiti and Artifact Movement: A Case Study of Cultural Impacts on WWII Underwater Cultural Heritage in the Commonwealth of the Northern Mariana Islands." April 1, 2015.
+
+## Appendix:
+* Title: Memorialization, Graffiti and Artifact Movement: A Case Study of Cultural Impacts on WWII Underwater Cultural Heritage in the Commonwealth of the Northern Mariana Islands
+* Author: Jennifer F. McKinnon
+* Date: April 1, 2015
+* Description: Detailed case study on the impacts on WWII underwater heritage sites in CNMI
+* Keywords: WWII heritage, underwater cultural impacts, archaeological study
+* Source: NASA Astrophysics Data System (ADS)
+
+
+
+
+
+
