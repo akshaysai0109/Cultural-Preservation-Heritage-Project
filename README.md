@@ -10,5 +10,5 @@ Digital curation and preservation procedures are critical for ensuring the integ
 The project aims to preserve and research the effects of WWII Underwater Cultural Heritage in the Commonwealth of the Northern Mariana Islands (CNMI).
 
 ## Information setting and type of information
-Markup: * The preserved information concludes a case study conducted by Jennifer F. McKinnon titled "Memorialization, Graffiti and Artifact Movement: A Case Study of Cultural Impacts on WWII Underwater Cultural Heritage in the Commonwealth of the Northern Mariana Islands."
-        * The content includes a case study that details criminal activity, remembrance stealing, artifacts motion, and other associated effects on submerged WWII sites. This study's preservation entails documenting it with explained metadata guaranteeing precise replication and availability.
+* The preserved information concludes a case study conducted by Jennifer F. McKinnon titled "Memorialization, Graffiti and Artifact Movement: A Case Study of Cultural Impacts on WWII Underwater Cultural Heritage in the Commonwealth of the Northern Mariana Islands."
+* The content includes a case study that details criminal activity, remembrance stealing, artifacts motion, and other associated effects on submerged WWII sites. This study's preservation entails documenting it with explained metadata guaranteeing precise replication and availability.
